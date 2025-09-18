@@ -1,16 +1,21 @@
-\# Author: Michelle Ogunade
+**README.md for the team**
 
-\# Date: Thursday, 18.09.25
+---
+
+some normal text
+
+&nbsp;	
+
+**TEAM MEMBERS**
+
+---
+
+Michelle Ogunade
 
 
+**Meeting Times**
 
-\# Title: This is a basic file.
+**---**
 
-
-
-\# Team Members Names
-
-
-
-\# Meeting Times
+**Thursday, 18th September 2025**
 
