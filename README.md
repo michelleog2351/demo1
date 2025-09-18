@@ -1,6 +1,4 @@
-**README.md for the team**
-
----
+# README.md for the team
 
 some normal text
 
@@ -8,14 +6,9 @@ some normal text
 
 **TEAM MEMBERS**
 
----
-
 Michelle Ogunade
 
 
-**Meeting Times**
+## Meeting Times
 
-**---**
-
-**Thursday, 18th September 2025**
-
+Thursday, 18th September 2025
